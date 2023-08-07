@@ -1,0 +1,10 @@
+name: SpeedrunTimer
+version: 1.0.0
+author: tyler58546
+main: com.tyler58546.speedruntimer.TimerPlugin
+api-version: 1.14
+commands:
+  timer:
+    description: Manage speedrun timer
+    usage: |
+      USAGE: /<command> <start|stop|reset>
